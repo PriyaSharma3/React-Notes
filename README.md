@@ -1,5 +1,5 @@
-<p>
-  <image align="center" src="https://drive.google.com/file/d/1sFGjjAxzxPRgmVKccR8Mhfg2aw2WwmfH/view" />
+<p align="center">
+<img src="https://drive.google.com/file/d/1sFGjjAxzxPRgmVKccR8Mhfg2aw2WwmfH/view" width="100%">
 </p>
 Manage your work, home, personal tasks with notes app. Add ability to add, edit, delete, and mark them as completed. Additional features include searching, filtering and visualizing completion progress.
 
