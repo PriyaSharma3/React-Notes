@@ -1,6 +1,21 @@
-<p align="center">
-<img src="https://drive.google.com/file/d/1sFGjjAxzxPRgmVKccR8Mhfg2aw2WwmfH/view" width="100%">
-</p>
+
+![Screenshot_20230804_130804](https://github.com/PriyaSharma3/React-Notes/assets/57484845/9e3e0b15-1e26-47ca-9d37-508bfb15cdb8)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Manage your work, home, personal tasks with notes app. Add ability to add, edit, delete, and mark them as completed. Additional features include searching, filtering and visualizing completion progress.
 
 ## :hammer: Technologies & Tools
